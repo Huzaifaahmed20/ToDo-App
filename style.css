@@ -1,0 +1,38 @@
+body{
+ background-image: url("bg.jpg");
+background-repeat: no-repeat; 
+/* background-color: snow; */
+}
+.jumbotron{
+    background-color: #b93a32;
+}
+
+.remove{
+    float: right;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+/* .todo{
+     margin: 0px 0px 0px 420px;
+    height: 100px;
+    width: 100px;
+} */
+ul{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+    list-style-type: circle;
+}
+.well{
+    background-color: snow;
+}
+h1{
+     font-family: 'Artifika', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+.btn{
+    border: 1px solid black;
+}
